@@ -1,0 +1,2963 @@
+{
+    "Aharoni,True,False": {
+        "EN_name": "Aharoni",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ahronbd.ttf"
+    },
+    "Algerian,False,False": {
+        "EN_name": "Algerian",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ALGER.TTF"
+    },
+    "Andalus,False,False": {
+        "EN_name": "Andalus",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\andlso.ttf"
+    },
+    "Angsana New,False,False": {
+        "EN_name": "Angsana New",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\angsa.ttf"
+    },
+    "Angsana New,True,False": {
+        "EN_name": "Angsana New",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\angsab.ttf"
+    },
+    "Angsana New,False,True": {
+        "EN_name": "Angsana New",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\angsai.ttf"
+    },
+    "AngsanaUPC,False,False": {
+        "EN_name": "AngsanaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\angsau.ttf"
+    },
+    "AngsanaUPC,True,False": {
+        "EN_name": "AngsanaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\angsaub.ttf"
+    },
+    "AngsanaUPC,False,True": {
+        "EN_name": "AngsanaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\angsaui.ttf"
+    },
+    "AngsanaUPC,True,True": {
+        "EN_name": "AngsanaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\angsauz.ttf"
+    },
+    "Angsana New,True,True": {
+        "EN_name": "Angsana New",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\angsaz.ttf"
+    },
+    "Book Antiqua,True,False": {
+        "EN_name": "Book Antiqua",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ANTQUAB.TTF"
+    },
+    "Book Antiqua,True,True": {
+        "EN_name": "Book Antiqua",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\ANTQUABI.TTF"
+    },
+    "Book Antiqua,False,True": {
+        "EN_name": "Book Antiqua",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\ANTQUAI.TTF"
+    },
+    "Aparajita,False,False": {
+        "EN_name": "Aparajita",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\aparaj.ttf"
+    },
+    "Aparajita,True,False": {
+        "EN_name": "Aparajita",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\aparajb.ttf"
+    },
+    "Aparajita,True,True": {
+        "EN_name": "Aparajita",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\aparajbi.ttf"
+    },
+    "Aparajita,False,True": {
+        "EN_name": "Aparajita",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\aparaji.ttf"
+    },
+    "Arabic Typesetting,False,False": {
+        "EN_name": "Arabic Typesetting",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\arabtype.ttf"
+    },
+    "Arial,False,False": {
+        "EN_name": "Arial",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\arial.ttf"
+    },
+    "Arial,True,False": {
+        "EN_name": "Arial",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\arialbd.ttf"
+    },
+    "Arial,True,True": {
+        "EN_name": "Arial",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\arialbi.ttf"
+    },
+    "Arial,False,True": {
+        "EN_name": "Arial",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\ariali.ttf"
+    },
+    "Arial Narrow,False,False": {
+        "EN_name": "Arial Narrow",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ARIALN.TTF"
+    },
+    "Arial Narrow,True,False": {
+        "EN_name": "Arial Narrow",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ARIALNB.TTF"
+    },
+    "Arial Narrow,True,True": {
+        "EN_name": "Arial Narrow",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\ARIALNBI.TTF"
+    },
+    "Arial Narrow,False,True": {
+        "EN_name": "Arial Narrow",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\ARIALNI.TTF"
+    },
+    "Arial Unicode MS,False,False": {
+        "EN_name": "Arial Unicode MS",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ARIALUNI.TTF"
+    },
+    "Arial Black,False,False": {
+        "EN_name": "Arial Black",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ariblk.ttf"
+    },
+    "Baskerville Old Face,False,False": {
+        "EN_name": "Baskerville Old Face",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BASKVILL.TTF"
+    },
+    "Batang,False,False": {
+        "EN_name": "Batang",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\batang.ttc"
+    },
+    "BatangChe,False,False": {
+        "EN_name": "BatangChe",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\batang.ttc"
+    },
+    "Gungsuh,False,False": {
+        "EN_name": "Gungsuh",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\batang.ttc"
+    },
+    "GungsuhChe,False,False": {
+        "EN_name": "GungsuhChe",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\batang.ttc"
+    },
+    "Bauhaus 93,False,False": {
+        "EN_name": "Bauhaus 93",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BAUHS93.TTF"
+    },
+    "Bell MT,False,False": {
+        "EN_name": "Bell MT",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BELL.TTF"
+    },
+    "Bell MT,True,False": {
+        "EN_name": "Bell MT",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BELLB.TTF"
+    },
+    "Bell MT,False,True": {
+        "EN_name": "Bell MT",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\BELLI.TTF"
+    },
+    "Bernard MT Condensed,False,False": {
+        "EN_name": "Bernard MT Condensed",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BERNHC.TTF"
+    },
+    "Book Antiqua,False,False": {
+        "EN_name": "Book Antiqua",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BKANT.TTF"
+    },
+    "Bodoni MT Poster Compressed,False,False": {
+        "EN_name": "Bodoni MT Poster Compressed",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BOD_PSTC.TTF"
+    },
+    "Bookman Old Style,False,False": {
+        "EN_name": "Bookman Old Style",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BOOKOS.TTF"
+    },
+    "Bookman Old Style,True,False": {
+        "EN_name": "Bookman Old Style",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BOOKOSB.TTF"
+    },
+    "Bookman Old Style,True,True": {
+        "EN_name": "Bookman Old Style",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\BOOKOSBI.TTF"
+    },
+    "Bookman Old Style,False,True": {
+        "EN_name": "Bookman Old Style",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\BOOKOSI.TTF"
+    },
+    "Bradley Hand ITC,False,False": {
+        "EN_name": "Bradley Hand ITC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BRADHITC.TTF"
+    },
+    "Britannic Bold,False,False": {
+        "EN_name": "Britannic Bold",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BRITANIC.TTF"
+    },
+    "Berlin Sans FB,True,False": {
+        "EN_name": "Berlin Sans FB",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BRLNSB.TTF"
+    },
+    "Berlin Sans FB Demi,True,False": {
+        "EN_name": "Berlin Sans FB Demi",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BRLNSDB.TTF"
+    },
+    "Berlin Sans FB,False,False": {
+        "EN_name": "Berlin Sans FB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BRLNSR.TTF"
+    },
+    "Broadway,False,False": {
+        "EN_name": "Broadway",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BROADW.TTF"
+    },
+    "Browallia New,False,False": {
+        "EN_name": "Browallia New",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\browa.ttf"
+    },
+    "Browallia New,True,False": {
+        "EN_name": "Browallia New",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\browab.ttf"
+    },
+    "Browallia New,False,True": {
+        "EN_name": "Browallia New",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\browai.ttf"
+    },
+    "BrowalliaUPC,False,False": {
+        "EN_name": "BrowalliaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\browau.ttf"
+    },
+    "BrowalliaUPC,True,False": {
+        "EN_name": "BrowalliaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\browaub.ttf"
+    },
+    "BrowalliaUPC,False,True": {
+        "EN_name": "BrowalliaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\browaui.ttf"
+    },
+    "BrowalliaUPC,True,True": {
+        "EN_name": "BrowalliaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\browauz.ttf"
+    },
+    "Browallia New,True,True": {
+        "EN_name": "Browallia New",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\browaz.ttf"
+    },
+    "Brush Script MT,False,True": {
+        "EN_name": "Brush Script MT",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\BRUSHSCI.TTF"
+    },
+    "Bookshelf Symbol 7,False,False": {
+        "EN_name": "Bookshelf Symbol 7",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\BSSYM7.TTF"
+    },
+    "Calibri,False,False": {
+        "EN_name": "Calibri",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\calibri.ttf"
+    },
+    "Calibri,True,False": {
+        "EN_name": "Calibri",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\calibrib.ttf"
+    },
+    "Calibri,False,True": {
+        "EN_name": "Calibri",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\calibrii.ttf"
+    },
+    "Calibri Light,False,False": {
+        "EN_name": "Calibri Light",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CalibriL.ttf"
+    },
+    "Calibri Light,False,True": {
+        "EN_name": "Calibri Light",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CalibriLI.ttf"
+    },
+    "Calibri,True,True": {
+        "EN_name": "Calibri",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\calibriz.ttf"
+    },
+    "Californian FB,True,False": {
+        "EN_name": "Californian FB",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CALIFB.TTF"
+    },
+    "Californian FB,False,True": {
+        "EN_name": "Californian FB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CALIFI.TTF"
+    },
+    "Californian FB,False,False": {
+        "EN_name": "Californian FB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CALIFR.TTF"
+    },
+    "Cambria,False,False": {
+        "EN_name": "Cambria",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\cambria.ttc"
+    },
+    "Cambria Math,False,False": {
+        "EN_name": "Cambria Math",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\cambria.ttc"
+    },
+    "Cambria,True,False": {
+        "EN_name": "Cambria",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\cambriab.ttf"
+    },
+    "Cambria,False,True": {
+        "EN_name": "Cambria",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\cambriai.ttf"
+    },
+    "Cambria,True,True": {
+        "EN_name": "Cambria",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\cambriaz.ttf"
+    },
+    "Candara,False,False": {
+        "EN_name": "Candara",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\Candara.ttf"
+    },
+    "Candara,True,False": {
+        "EN_name": "Candara",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\Candarab.ttf"
+    },
+    "Candara,False,True": {
+        "EN_name": "Candara",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\Candarai.ttf"
+    },
+    "Candara,True,True": {
+        "EN_name": "Candara",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\Candaraz.ttf"
+    },
+    "CarolinaBar-B39-25B0,True,False": {
+        "EN_name": "CarolinaBar-B39-25B0",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25B0-Bold.ttf"
+    },
+    "CarolinaBar-B39-25B0,True,True": {
+        "EN_name": "CarolinaBar-B39-25B0",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25B0-BoldItalic.ttf"
+    },
+    "CarolinaBar-B39-25B0,False,True": {
+        "EN_name": "CarolinaBar-B39-25B0",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25B0-Italic.ttf"
+    },
+    "CarolinaBar-B39-25B0,False,False": {
+        "EN_name": "CarolinaBar-B39-25B0",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25B0-Normal.ttf"
+    },
+    "CarolinaBar-B39-25D1,True,False": {
+        "EN_name": "CarolinaBar-B39-25D1",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25D1-Bold.TTF"
+    },
+    "CarolinaBar-B39-25D1,True,True": {
+        "EN_name": "CarolinaBar-B39-25D1",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25D1-BoldItalic.TTF"
+    },
+    "CarolinaBar-B39-25D1,False,True": {
+        "EN_name": "CarolinaBar-B39-25D1",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25D1-Italic.TTF"
+    },
+    "CarolinaBar-B39-25D1,False,False": {
+        "EN_name": "CarolinaBar-B39-25D1",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25D1-Normal.TTF"
+    },
+    "CarolinaBar-B39-25E2,True,False": {
+        "EN_name": "CarolinaBar-B39-25E2",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25E2-Bold.TTF"
+    },
+    "CarolinaBar-B39-25E2,True,True": {
+        "EN_name": "CarolinaBar-B39-25E2",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25E2-BoldItalic.TTF"
+    },
+    "CarolinaBar-B39-25E2,False,True": {
+        "EN_name": "CarolinaBar-B39-25E2",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25E2-Italic.TTF"
+    },
+    "CarolinaBar-B39-25E2,False,False": {
+        "EN_name": "CarolinaBar-B39-25E2",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25E2-Normal.TTF"
+    },
+    "CarolinaBar-B39-25F2,True,False": {
+        "EN_name": "CarolinaBar-B39-25F2",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25F2-Bold.TTF"
+    },
+    "CarolinaBar-B39-25F2,True,True": {
+        "EN_name": "CarolinaBar-B39-25F2",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25F2-BoldItalic.TTF"
+    },
+    "CarolinaBar-B39-25F2,False,True": {
+        "EN_name": "CarolinaBar-B39-25F2",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25F2-Italic.TTF"
+    },
+    "CarolinaBar-B39-25F2,False,False": {
+        "EN_name": "CarolinaBar-B39-25F2",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CarolinaBar-B39-25F2-Normal.TTF"
+    },
+    "Centaur,False,False": {
+        "EN_name": "Centaur",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CENTAUR.TTF"
+    },
+    "Century,False,False": {
+        "EN_name": "Century",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CENTURY.TTF"
+    },
+    "Chiller,False,False": {
+        "EN_name": "Chiller",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\CHILLER.TTF"
+    },
+    "Colonna MT,False,False": {
+        "EN_name": "Colonna MT",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\COLONNA.TTF"
+    },
+    "Comic Sans MS,False,False": {
+        "EN_name": "Comic Sans MS",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\comic.ttf"
+    },
+    "Comic Sans MS,True,False": {
+        "EN_name": "Comic Sans MS",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\comicbd.ttf"
+    },
+    "Consolas,False,False": {
+        "EN_name": "Consolas",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\consola.ttf"
+    },
+    "Consolas,True,False": {
+        "EN_name": "Consolas",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\consolab.ttf"
+    },
+    "Consolas,False,True": {
+        "EN_name": "Consolas",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\consolai.ttf"
+    },
+    "Consolas,True,True": {
+        "EN_name": "Consolas",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\consolaz.ttf"
+    },
+    "Constantia,False,False": {
+        "EN_name": "Constantia",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\constan.ttf"
+    },
+    "Constantia,True,False": {
+        "EN_name": "Constantia",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\constanb.ttf"
+    },
+    "Constantia,False,True": {
+        "EN_name": "Constantia",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\constani.ttf"
+    },
+    "Constantia,True,True": {
+        "EN_name": "Constantia",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\constanz.ttf"
+    },
+    "Cooper Black,False,False": {
+        "EN_name": "Cooper Black",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\COOPBL.TTF"
+    },
+    "Corbel,False,False": {
+        "EN_name": "Corbel",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\corbel.ttf"
+    },
+    "Corbel,True,False": {
+        "EN_name": "Corbel",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\corbelb.ttf"
+    },
+    "Corbel,False,True": {
+        "EN_name": "Corbel",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\corbeli.ttf"
+    },
+    "Corbel,True,True": {
+        "EN_name": "Corbel",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\corbelz.ttf"
+    },
+    "Cordia New,False,False": {
+        "EN_name": "Cordia New",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\cordia.ttf"
+    },
+    "Cordia New,True,False": {
+        "EN_name": "Cordia New",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\cordiab.ttf"
+    },
+    "Cordia New,False,True": {
+        "EN_name": "Cordia New",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\cordiai.ttf"
+    },
+    "CordiaUPC,False,False": {
+        "EN_name": "CordiaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\cordiau.ttf"
+    },
+    "CordiaUPC,True,False": {
+        "EN_name": "CordiaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\cordiaub.ttf"
+    },
+    "CordiaUPC,False,True": {
+        "EN_name": "CordiaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\cordiaui.ttf"
+    },
+    "CordiaUPC,True,True": {
+        "EN_name": "CordiaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\cordiauz.ttf"
+    },
+    "Cordia New,True,True": {
+        "EN_name": "Cordia New",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\cordiaz.ttf"
+    },
+    "Courier New,False,False": {
+        "EN_name": "Courier New",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\cour.ttf"
+    },
+    "Courier New,True,False": {
+        "EN_name": "Courier New",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\courbd.ttf"
+    },
+    "Courier New,True,True": {
+        "EN_name": "Courier New",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\courbi.ttf"
+    },
+    "Courier New,False,True": {
+        "EN_name": "Courier New",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\couri.ttf"
+    },
+    "DaunPenh,False,False": {
+        "EN_name": "DaunPenh",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\daunpenh.ttf"
+    },
+    "David,False,False": {
+        "EN_name": "David",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\david.ttf"
+    },
+    "David,True,False": {
+        "EN_name": "David",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\davidbd.ttf"
+    },
+    "DokChampa,False,False": {
+        "EN_name": "DokChampa",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\dokchamp.ttf"
+    },
+    "Ebrima,False,False": {
+        "EN_name": "Ebrima",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ebrima.ttf"
+    },
+    "Ebrima,True,False": {
+        "EN_name": "Ebrima",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ebrimabd.ttf"
+    },
+    "Estrangelo Edessa,False,False": {
+        "EN_name": "Estrangelo Edessa",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\estre.ttf"
+    },
+    "Euphemia,False,False": {
+        "EN_name": "Euphemia",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\euphemia.ttf"
+    },
+    "Franklin Gothic Medium,False,False": {
+        "EN_name": "Franklin Gothic Medium",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\framd.ttf"
+    },
+    "Franklin Gothic Medium,False,True": {
+        "EN_name": "Franklin Gothic Medium",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\framdit.ttf"
+    },
+    "FrankRuehl,False,False": {
+        "EN_name": "FrankRuehl",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\frank.ttf"
+    },
+    "Freestyle Script,False,False": {
+        "EN_name": "Freestyle Script",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\FREESCPT.TTF"
+    },
+    "French Script MT,False,False": {
+        "EN_name": "French Script MT",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\FRSCRIPT.TTF"
+    },
+    "Footlight MT Light,False,False": {
+        "EN_name": "Footlight MT Light",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\FTLTLT.TTF"
+    },
+    "Gabriola,False,False": {
+        "EN_name": "Gabriola",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\Gabriola.ttf"
+    },
+    "Gadugi,False,False": {
+        "EN_name": "Gadugi",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\GADUGI.TTF"
+    },
+    "Gadugi,True,False": {
+        "EN_name": "Gadugi",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\GADUGIB.TTF"
+    },
+    "Garamond,False,False": {
+        "EN_name": "Garamond",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\GARA.TTF"
+    },
+    "Garamond,True,False": {
+        "EN_name": "Garamond",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\GARABD.TTF"
+    },
+    "Garamond,False,True": {
+        "EN_name": "Garamond",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\GARAIT.TTF"
+    },
+    "Gautami,False,False": {
+        "EN_name": "Gautami",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\gautami.ttf"
+    },
+    "Gautami,True,False": {
+        "EN_name": "Gautami",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\gautamib.ttf"
+    },
+    "Georgia,False,False": {
+        "EN_name": "Georgia",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\georgia.ttf"
+    },
+    "Georgia,True,False": {
+        "EN_name": "Georgia",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\georgiab.ttf"
+    },
+    "Georgia,False,True": {
+        "EN_name": "Georgia",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\georgiai.ttf"
+    },
+    "Georgia,True,True": {
+        "EN_name": "Georgia",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\georgiaz.ttf"
+    },
+    "Gisha,False,False": {
+        "EN_name": "Gisha",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\gisha.ttf"
+    },
+    "Gisha,True,False": {
+        "EN_name": "Gisha",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\gishabd.ttf"
+    },
+    "Century Gothic,False,False": {
+        "EN_name": "Century Gothic",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\GOTHIC.TTF"
+    },
+    "Century Gothic,True,False": {
+        "EN_name": "Century Gothic",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\GOTHICB.TTF"
+    },
+    "Century Gothic,True,True": {
+        "EN_name": "Century Gothic",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\GOTHICBI.TTF"
+    },
+    "Century Gothic,False,True": {
+        "EN_name": "Century Gothic",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\GOTHICI.TTF"
+    },
+    "Gulim,False,False": {
+        "EN_name": "Gulim",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\gulim.ttc"
+    },
+    "GulimChe,False,False": {
+        "EN_name": "GulimChe",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\gulim.ttc"
+    },
+    "Dotum,False,False": {
+        "EN_name": "Dotum",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\gulim.ttc"
+    },
+    "DotumChe,False,False": {
+        "EN_name": "DotumChe",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\gulim.ttc"
+    },
+    "Harlow Solid Italic,False,True": {
+        "EN_name": "Harlow Solid Italic",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\HARLOWSI.TTF"
+    },
+    "Harrington,False,False": {
+        "EN_name": "Harrington",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HARNGTON.TTF"
+    },
+    "HGGothicE,False,False": {
+        "EN_name": "HGGothicE",
+        "JP_name": "HG\uff7a\uff9e\uff7c\uff6f\uff78E",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGE.TTC"
+    },
+    "HGPGothicE,False,False": {
+        "EN_name": "HGPGothicE",
+        "JP_name": "HGP\uff7a\uff9e\uff7c\uff6f\uff78E",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGE.TTC"
+    },
+    "HGSGothicE,False,False": {
+        "EN_name": "HGSGothicE",
+        "JP_name": "HGS\uff7a\uff9e\uff7c\uff6f\uff78E",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGE.TTC"
+    },
+    "HGGothicM,False,False": {
+        "EN_name": "HGGothicM",
+        "JP_name": "HG\uff7a\uff9e\uff7c\uff6f\uff78M",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGM.TTC"
+    },
+    "HGPGothicM,False,False": {
+        "EN_name": "HGPGothicM",
+        "JP_name": "HGP\uff7a\uff9e\uff7c\uff6f\uff78M",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGM.TTC"
+    },
+    "HGSGothicM,False,False": {
+        "EN_name": "HGSGothicM",
+        "JP_name": "HGS\uff7a\uff9e\uff7c\uff6f\uff78M",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGM.TTC"
+    },
+    "HGGyoshotai,False,False": {
+        "EN_name": "HGGyoshotai",
+        "JP_name": "HG\u884c\u66f8\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGY.TTC"
+    },
+    "HGPGyoshotai,False,False": {
+        "EN_name": "HGPGyoshotai",
+        "JP_name": "HGP\u884c\u66f8\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGY.TTC"
+    },
+    "HGSGyoshotai,False,False": {
+        "EN_name": "HGSGyoshotai",
+        "JP_name": "HGS\u884c\u66f8\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRGY.TTC"
+    },
+    "HGKyokashotai,False,False": {
+        "EN_name": "HGKyokashotai",
+        "JP_name": "HG\u6559\u79d1\u66f8\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRKK.TTC"
+    },
+    "HGPKyokashotai,False,False": {
+        "EN_name": "HGPKyokashotai",
+        "JP_name": "HGP\u6559\u79d1\u66f8\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRKK.TTC"
+    },
+    "HGSKyokashotai,False,False": {
+        "EN_name": "HGSKyokashotai",
+        "JP_name": "HGS\u6559\u79d1\u66f8\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRKK.TTC"
+    },
+    "HGMinchoB,True,False": {
+        "EN_name": "HGMinchoB",
+        "JP_name": "HG\u660e\u671dB",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRMB.TTC"
+    },
+    "HGPMinchoB,True,False": {
+        "EN_name": "HGPMinchoB",
+        "JP_name": "HGP\u660e\u671dB",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRMB.TTC"
+    },
+    "HGSMinchoB,True,False": {
+        "EN_name": "HGSMinchoB",
+        "JP_name": "HGS\u660e\u671dB",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRMB.TTC"
+    },
+    "HGMinchoE,False,False": {
+        "EN_name": "HGMinchoE",
+        "JP_name": "HG\u660e\u671dE",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRME.TTC"
+    },
+    "HGPMinchoE,False,False": {
+        "EN_name": "HGPMinchoE",
+        "JP_name": "HGP\u660e\u671dE",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRME.TTC"
+    },
+    "HGSMinchoE,False,False": {
+        "EN_name": "HGSMinchoE",
+        "JP_name": "HGS\u660e\u671dE",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRME.TTC"
+    },
+    "HGSoeiKakupoptai,False,False": {
+        "EN_name": "HGSoeiKakupoptai",
+        "JP_name": "HG\u5275\u82f1\u89d2\uff8e\uff9f\uff6f\uff8c\uff9f\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRPP1.TTC"
+    },
+    "HGPSoeiKakupoptai,False,False": {
+        "EN_name": "HGPSoeiKakupoptai",
+        "JP_name": "HGP\u5275\u82f1\u89d2\uff8e\uff9f\uff6f\uff8c\uff9f\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRPP1.TTC"
+    },
+    "HGSSoeiKakupoptai,False,False": {
+        "EN_name": "HGSSoeiKakupoptai",
+        "JP_name": "HGS\u5275\u82f1\u89d2\uff8e\uff9f\uff6f\uff8c\uff9f\u4f53",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRPP1.TTC"
+    },
+    "HGSoeiPresenceEB,True,False": {
+        "EN_name": "HGSoeiPresenceEB",
+        "JP_name": "HG\u5275\u82f1\uff8c\uff9f\uff9a\uff7e\uff9e\uff9d\uff7dEB",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRPRE.TTC"
+    },
+    "HGPSoeiPresenceEB,True,False": {
+        "EN_name": "HGPSoeiPresenceEB",
+        "JP_name": "HGP\u5275\u82f1\uff8c\uff9f\uff9a\uff7e\uff9e\uff9d\uff7dEB",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRPRE.TTC"
+    },
+    "HGSSoeiPresenceEB,True,False": {
+        "EN_name": "HGSSoeiPresenceEB",
+        "JP_name": "HGS\u5275\u82f1\uff8c\uff9f\uff9a\uff7e\uff9e\uff9d\uff7dEB",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRPRE.TTC"
+    },
+    "HGSoeiKakugothicUB,False,False": {
+        "EN_name": "HGSoeiKakugothicUB",
+        "JP_name": "HG\u5275\u82f1\u89d2\uff7a\uff9e\uff7c\uff6f\uff78UB",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRSGU.TTC"
+    },
+    "HGPSoeiKakugothicUB,False,False": {
+        "EN_name": "HGPSoeiKakugothicUB",
+        "JP_name": "HGP\u5275\u82f1\u89d2\uff7a\uff9e\uff7c\uff6f\uff78UB",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRSGU.TTC"
+    },
+    "HGSSoeiKakugothicUB,False,False": {
+        "EN_name": "HGSSoeiKakugothicUB",
+        "JP_name": "HGS\u5275\u82f1\u89d2\uff7a\uff9e\uff7c\uff6f\uff78UB",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRSGU.TTC"
+    },
+    "HGSeikaishotaiPRO,False,False": {
+        "EN_name": "HGSeikaishotaiPRO",
+        "JP_name": "HG\u6b63\u6977\u66f8\u4f53-PRO",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRSKP.TTF"
+    },
+    "HGMaruGothicMPRO,False,False": {
+        "EN_name": "HGMaruGothicMPRO",
+        "JP_name": "HG\u4e38\uff7a\uff9e\uff7c\uff6f\uff78M-PRO",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HGRSMP.TTF"
+    },
+    "Microsoft Himalaya,False,False": {
+        "EN_name": "Microsoft Himalaya",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\himalaya.ttf"
+    },
+    "High Tower Text,False,False": {
+        "EN_name": "High Tower Text",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\HTOWERT.TTF"
+    },
+    "High Tower Text,False,True": {
+        "EN_name": "High Tower Text",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\HTOWERTI.TTF"
+    },
+    "Impact,False,False": {
+        "EN_name": "Impact",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\impact.ttf"
+    },
+    "Informal Roman,False,False": {
+        "EN_name": "Informal Roman",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\INFROMAN.TTF"
+    },
+    "Iskoola Pota,False,False": {
+        "EN_name": "Iskoola Pota",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\iskpota.ttf"
+    },
+    "Iskoola Pota,True,False": {
+        "EN_name": "Iskoola Pota",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\iskpotab.ttf"
+    },
+    "Kristen ITC,False,False": {
+        "EN_name": "Kristen ITC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ITCKRIST.TTF"
+    },
+    "Jokerman,False,False": {
+        "EN_name": "Jokerman",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\JOKERMAN.TTF"
+    },
+    "Juice ITC,False,False": {
+        "EN_name": "Juice ITC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\JUICE___.TTF"
+    },
+    "DFKai-SB,False,False": {
+        "EN_name": "DFKai-SB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\kaiu.ttf"
+    },
+    "Kalinga,False,False": {
+        "EN_name": "Kalinga",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\kalinga.ttf"
+    },
+    "Kalinga,True,False": {
+        "EN_name": "Kalinga",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\kalingab.ttf"
+    },
+    "Kartika,False,False": {
+        "EN_name": "Kartika",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\kartika.ttf"
+    },
+    "Kartika,True,False": {
+        "EN_name": "Kartika",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\kartikab.ttf"
+    },
+    "Khmer UI,False,False": {
+        "EN_name": "Khmer UI",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\KhmerUI.ttf"
+    },
+    "Khmer UI,True,False": {
+        "EN_name": "Khmer UI",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\KhmerUIb.ttf"
+    },
+    "Kokila,False,False": {
+        "EN_name": "Kokila",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\kokila.ttf"
+    },
+    "Kokila,True,False": {
+        "EN_name": "Kokila",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\kokilab.ttf"
+    },
+    "Kokila,True,True": {
+        "EN_name": "Kokila",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\kokilabi.ttf"
+    },
+    "Kokila,False,True": {
+        "EN_name": "Kokila",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\kokilai.ttf"
+    },
+    "Kunstler Script,False,False": {
+        "EN_name": "Kunstler Script",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\KUNSTLER.TTF"
+    },
+    "Lao UI,False,False": {
+        "EN_name": "Lao UI",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LaoUI.ttf"
+    },
+    "Lao UI,True,False": {
+        "EN_name": "Lao UI",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LaoUIb.ttf"
+    },
+    "Latha,False,False": {
+        "EN_name": "Latha",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\latha.ttf"
+    },
+    "Latha,True,False": {
+        "EN_name": "Latha",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\lathab.ttf"
+    },
+    "Wide Latin,False,False": {
+        "EN_name": "Wide Latin",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LATINWD.TTF"
+    },
+    "Lucida Bright,False,False": {
+        "EN_name": "Lucida Bright",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LBRITED.TTF"
+    },
+    "Lucida Bright,False,True": {
+        "EN_name": "Lucida Bright",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\LBRITEI.TTF"
+    },
+    "Lucida Calligraphy,False,True": {
+        "EN_name": "Lucida Calligraphy",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\LCALLIG.TTF"
+    },
+    "Leelawadee,False,False": {
+        "EN_name": "Leelawadee",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LEELAWAD.TTF"
+    },
+    "Leelawadee,True,False": {
+        "EN_name": "Leelawadee",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LEELAWDB.TTF"
+    },
+    "Lucida Fax,False,False": {
+        "EN_name": "Lucida Fax",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LFAXD.TTF"
+    },
+    "Lucida Fax,False,True": {
+        "EN_name": "Lucida Fax",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\LFAXI.TTF"
+    },
+    "LG Display-Light,False,False": {
+        "EN_name": "LG Display-Light",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LGDisplayLight.ttf"
+    },
+    "LG Display-Regular,False,False": {
+        "EN_name": "LG Display-Regular",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\LG_Display.ttf"
+    },
+    "Lucida Handwriting,False,True": {
+        "EN_name": "Lucida Handwriting",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\LHANDW.TTF"
+    },
+    "Lucida Console,False,False": {
+        "EN_name": "Lucida Console",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\lucon.ttf"
+    },
+    "Levenim MT,False,False": {
+        "EN_name": "Levenim MT",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\lvnm.ttf"
+    },
+    "Levenim MT,True,False": {
+        "EN_name": "Levenim MT",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\lvnmbd.ttf"
+    },
+    "Lucida Sans Unicode,False,False": {
+        "EN_name": "Lucida Sans Unicode",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\l_10646.ttf"
+    },
+    "Magneto,True,False": {
+        "EN_name": "Magneto",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MAGNETOB.TTF"
+    },
+    "Sakkal Majalla,False,False": {
+        "EN_name": "Sakkal Majalla",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\majalla.ttf"
+    },
+    "Sakkal Majalla,True,False": {
+        "EN_name": "Sakkal Majalla",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\majallab.ttf"
+    },
+    "Malgun Gothic,False,False": {
+        "EN_name": "Malgun Gothic",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\malgun.ttf"
+    },
+    "Malgun Gothic,True,False": {
+        "EN_name": "Malgun Gothic",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\malgunbd.ttf"
+    },
+    "Mangal,False,False": {
+        "EN_name": "Mangal",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mangal.ttf"
+    },
+    "Mangal,True,False": {
+        "EN_name": "Mangal",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mangalb.ttf"
+    },
+    "Marlett,False,False": {
+        "EN_name": "Marlett",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\marlett.ttf"
+    },
+    "Matura MT Script Capitals,False,False": {
+        "EN_name": "Matura MT Script Capitals",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MATURASC.TTF"
+    },
+    "Meiryo,False,False": {
+        "EN_name": "Meiryo",
+        "JP_name": "\u30e1\u30a4\u30ea\u30aa",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\meiryo.ttc"
+    },
+    "Meiryo,False,True": {
+        "EN_name": "Meiryo",
+        "JP_name": "\u30e1\u30a4\u30ea\u30aa",
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\meiryo.ttc"
+    },
+    "Meiryo UI,False,False": {
+        "EN_name": "Meiryo UI",
+        "JP_name": "Meiryo UI",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\meiryo.ttc"
+    },
+    "Meiryo UI,False,True": {
+        "EN_name": "Meiryo UI",
+        "JP_name": "Meiryo UI",
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\meiryo.ttc"
+    },
+    "Meiryo,True,False": {
+        "EN_name": "Meiryo",
+        "JP_name": "\u30e1\u30a4\u30ea\u30aa",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\meiryob.ttc"
+    },
+    "Meiryo,True,True": {
+        "EN_name": "Meiryo",
+        "JP_name": "\u30e1\u30a4\u30ea\u30aa",
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\meiryob.ttc"
+    },
+    "Meiryo UI,True,False": {
+        "EN_name": "Meiryo UI",
+        "JP_name": "Meiryo UI",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\meiryob.ttc"
+    },
+    "Meiryo UI,True,True": {
+        "EN_name": "Meiryo UI",
+        "JP_name": "Meiryo UI",
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\meiryob.ttc"
+    },
+    "Microsoft Sans Serif,False,False": {
+        "EN_name": "Microsoft Sans Serif",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\micross.ttf"
+    },
+    "MingLiU,False,False": {
+        "EN_name": "MingLiU",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mingliu.ttc"
+    },
+    "PMingLiU,False,False": {
+        "EN_name": "PMingLiU",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mingliu.ttc"
+    },
+    "MingLiU_HKSCS,False,False": {
+        "EN_name": "MingLiU_HKSCS",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mingliu.ttc"
+    },
+    "MingLiU-ExtB,False,False": {
+        "EN_name": "MingLiU-ExtB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mingliub.ttc"
+    },
+    "PMingLiU-ExtB,False,False": {
+        "EN_name": "PMingLiU-ExtB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mingliub.ttc"
+    },
+    "MingLiU_HKSCS-ExtB,False,False": {
+        "EN_name": "MingLiU_HKSCS-ExtB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mingliub.ttc"
+    },
+    "Mistral,False,False": {
+        "EN_name": "Mistral",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MISTRAL.TTF"
+    },
+    "Modern No. 20,False,False": {
+        "EN_name": "Modern No. 20",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MOD20.TTF"
+    },
+    "Mongolian Baiti,False,False": {
+        "EN_name": "Mongolian Baiti",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\monbaiti.ttf"
+    },
+    "MoolBoran,False,False": {
+        "EN_name": "MoolBoran",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\moolbor.ttf"
+    },
+    "Miriam,False,False": {
+        "EN_name": "Miriam",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mriam.ttf"
+    },
+    "Miriam Fixed,False,False": {
+        "EN_name": "Miriam Fixed",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mriamc.ttf"
+    },
+    "MS Gothic,False,False": {
+        "EN_name": "MS Gothic",
+        "JP_name": "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msgothic.ttc"
+    },
+    "MS PGothic,False,False": {
+        "EN_name": "MS PGothic",
+        "JP_name": "\uff2d\uff33 \uff30\u30b4\u30b7\u30c3\u30af",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msgothic.ttc"
+    },
+    "MS UI Gothic,False,False": {
+        "EN_name": "MS UI Gothic",
+        "JP_name": "MS UI Gothic",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msgothic.ttc"
+    },
+    "Microsoft JhengHei,False,False": {
+        "EN_name": "Microsoft JhengHei",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msjh.ttf"
+    },
+    "Microsoft JhengHei UI,False,False": {
+        "EN_name": "Microsoft JhengHei UI",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MSJH.TTC"
+    },
+    "Microsoft JhengHei,True,False": {
+        "EN_name": "Microsoft JhengHei",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msjhbd.ttf"
+    },
+    "Microsoft JhengHei UI,True,False": {
+        "EN_name": "Microsoft JhengHei UI",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MSJHBD.TTC"
+    },
+    "MS Mincho,False,False": {
+        "EN_name": "MS Mincho",
+        "JP_name": "\uff2d\uff33 \u660e\u671d",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MSMINCHO.TTF"
+    },
+    "MS PMincho,False,False": {
+        "EN_name": "MS PMincho",
+        "JP_name": "\uff2d\uff33 \uff30\u660e\u671d",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msmincho.ttc"
+    },
+    "Microsoft Uighur,True,False": {
+        "EN_name": "Microsoft Uighur",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MSUIGHUB.TTF"
+    },
+    "Microsoft Uighur,False,False": {
+        "EN_name": "Microsoft Uighur",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MSUIGHUR.TTF"
+    },
+    "Microsoft YaHei,False,False": {
+        "EN_name": "Microsoft YaHei",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msyh.ttf"
+    },
+    "Microsoft YaHei UI,False,False": {
+        "EN_name": "Microsoft YaHei UI",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MSYH.TTC"
+    },
+    "Microsoft YaHei,True,False": {
+        "EN_name": "Microsoft YaHei",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msyhbd.ttf"
+    },
+    "Microsoft YaHei UI,True,False": {
+        "EN_name": "Microsoft YaHei UI",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MSYHBD.TTC"
+    },
+    "Microsoft Yi Baiti,False,False": {
+        "EN_name": "Microsoft Yi Baiti",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\msyi.ttf"
+    },
+    "Monotype Corsiva,False,False": {
+        "EN_name": "Monotype Corsiva",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\MTCORSVA.TTF"
+    },
+    "MV Boli,False,False": {
+        "EN_name": "MV Boli",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\mvboli.ttf"
+    },
+    "Niagara Engraved,False,False": {
+        "EN_name": "Niagara Engraved",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\NIAGENG.TTF"
+    },
+    "Niagara Solid,False,False": {
+        "EN_name": "Niagara Solid",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\NIAGSOL.TTF"
+    },
+    "Nirmala UI,False,False": {
+        "EN_name": "Nirmala UI",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\NIRMALA.TTF"
+    },
+    "Nirmala UI,True,False": {
+        "EN_name": "Nirmala UI",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\NIRMALAB.TTF"
+    },
+    "Narkisim,False,False": {
+        "EN_name": "Narkisim",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\nrkis.ttf"
+    },
+    "Microsoft New Tai Lue,False,False": {
+        "EN_name": "Microsoft New Tai Lue",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ntailu.ttf"
+    },
+    "Microsoft New Tai Lue,True,False": {
+        "EN_name": "Microsoft New Tai Lue",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ntailub.ttf"
+    },
+    "Nyala,False,False": {
+        "EN_name": "Nyala",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\nyala.ttf"
+    },
+    "OCR A Extended,False,False": {
+        "EN_name": "OCR A Extended",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ocraext.ttf"
+    },
+    "OCRB,False,False": {
+        "EN_name": "OCRB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\OCRB.TTF"
+    },
+    "Old English Text MT,False,False": {
+        "EN_name": "Old English Text MT",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\OLDENGL.TTF"
+    },
+    "Onyx,False,False": {
+        "EN_name": "Onyx",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ONYX.TTF"
+    },
+    "MS Outlook,False,False": {
+        "EN_name": "MS Outlook",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\OUTLOOK.TTF"
+    },
+    "Palatino Linotype,False,False": {
+        "EN_name": "Palatino Linotype",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\pala.ttf"
+    },
+    "Palatino Linotype,True,False": {
+        "EN_name": "Palatino Linotype",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\palab.ttf"
+    },
+    "Palatino Linotype,True,True": {
+        "EN_name": "Palatino Linotype",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\palabi.ttf"
+    },
+    "Palatino Linotype,False,True": {
+        "EN_name": "Palatino Linotype",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\palai.ttf"
+    },
+    "Papyrus,False,False": {
+        "EN_name": "Papyrus",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\PAPYRUS.TTF"
+    },
+    "Parchment,False,False": {
+        "EN_name": "Parchment",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\PARCHM.TTF"
+    },
+    "Microsoft PhagsPa,False,False": {
+        "EN_name": "Microsoft PhagsPa",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\phagspa.ttf"
+    },
+    "Microsoft PhagsPa,True,False": {
+        "EN_name": "Microsoft PhagsPa",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\phagspab.ttf"
+    },
+    "Plantagenet Cherokee,False,False": {
+        "EN_name": "Plantagenet Cherokee",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\plantc.ttf"
+    },
+    "Playbill,False,False": {
+        "EN_name": "Playbill",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\PLAYBILL.TTF"
+    },
+    "Poor Richard,False,False": {
+        "EN_name": "Poor Richard",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\POORICH.TTF"
+    },
+    "Pristina,False,False": {
+        "EN_name": "Pristina",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\PRISTINA.TTF"
+    },
+    "Raavi,False,False": {
+        "EN_name": "Raavi",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\raavi.ttf"
+    },
+    "Raavi,True,False": {
+        "EN_name": "Raavi",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\raavib.ttf"
+    },
+    "Ravie,False,False": {
+        "EN_name": "Ravie",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\RAVIE.TTF"
+    },
+    "MS Reference Sans Serif,False,False": {
+        "EN_name": "MS Reference Sans Serif",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\REFSAN.TTF"
+    },
+    "MS Reference Specialty,False,False": {
+        "EN_name": "MS Reference Specialty",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\REFSPCL.TTF"
+    },
+    "Rod,False,False": {
+        "EN_name": "Rod",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\rod.ttf"
+    },
+    "Segoe Print,False,False": {
+        "EN_name": "Segoe Print",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\segoepr.ttf"
+    },
+    "Segoe Print,True,False": {
+        "EN_name": "Segoe Print",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\segoeprb.ttf"
+    },
+    "Segoe Script,False,False": {
+        "EN_name": "Segoe Script",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\segoesc.ttf"
+    },
+    "Segoe Script,True,False": {
+        "EN_name": "Segoe Script",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\segoescb.ttf"
+    },
+    "Segoe UI,False,False": {
+        "EN_name": "Segoe UI",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\segoeui.ttf"
+    },
+    "Segoe UI,True,False": {
+        "EN_name": "Segoe UI",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\segoeuib.ttf"
+    },
+    "Segoe UI,False,True": {
+        "EN_name": "Segoe UI",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\segoeuii.ttf"
+    },
+    "Segoe UI Light,False,False": {
+        "EN_name": "Segoe UI Light",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\segoeuil.ttf"
+    },
+    "Segoe UI Semilight,False,False": {
+        "EN_name": "Segoe UI Semilight",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\SEGOEUISL.TTF"
+    },
+    "Segoe UI,True,True": {
+        "EN_name": "Segoe UI",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\segoeuiz.ttf"
+    },
+    "Segoe UI Emoji,False,False": {
+        "EN_name": "Segoe UI Emoji",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\SEGUIEMJ.TTF"
+    },
+    "Segoe UI Semibold,False,False": {
+        "EN_name": "Segoe UI Semibold",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\seguisb.ttf"
+    },
+    "Segoe UI Symbol,False,False": {
+        "EN_name": "Segoe UI Symbol",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\seguisym.ttf"
+    },
+    "Shonar Bangla,False,False": {
+        "EN_name": "Shonar Bangla",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\Shonar.ttf"
+    },
+    "Shonar Bangla,True,False": {
+        "EN_name": "Shonar Bangla",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\Shonarb.ttf"
+    },
+    "Showcard Gothic,False,False": {
+        "EN_name": "Showcard Gothic",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\SHOWG.TTF"
+    },
+    "Shruti,False,False": {
+        "EN_name": "Shruti",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\shruti.ttf"
+    },
+    "Shruti,True,False": {
+        "EN_name": "Shruti",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\shrutib.ttf"
+    },
+    "FangSong,False,False": {
+        "EN_name": "FangSong",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simfang.ttf"
+    },
+    "SimHei,False,False": {
+        "EN_name": "SimHei",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simhei.ttf"
+    },
+    "KaiTi,False,False": {
+        "EN_name": "KaiTi",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simkai.ttf"
+    },
+    "Simplified Arabic,True,False": {
+        "EN_name": "Simplified Arabic",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simpbdo.ttf"
+    },
+    "Simplified Arabic Fixed,False,False": {
+        "EN_name": "Simplified Arabic Fixed",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simpfxo.ttf"
+    },
+    "Simplified Arabic,False,False": {
+        "EN_name": "Simplified Arabic",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simpo.ttf"
+    },
+    "SimSun,False,False": {
+        "EN_name": "SimSun",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simsun.ttc"
+    },
+    "NSimSun,False,False": {
+        "EN_name": "NSimSun",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simsun.ttc"
+    },
+    "SimSun-ExtB,False,False": {
+        "EN_name": "SimSun-ExtB",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\simsunb.ttf"
+    },
+    "Snap ITC,False,False": {
+        "EN_name": "Snap ITC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\SNAP____.TTF"
+    },
+    "Stencil,False,False": {
+        "EN_name": "Stencil",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\STENCIL.TTF"
+    },
+    "Sylfaen,False,False": {
+        "EN_name": "Sylfaen",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\sylfaen.ttf"
+    },
+    "Symbol,False,False": {
+        "EN_name": "Symbol",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\symbol.ttf"
+    },
+    "Tahoma,False,False": {
+        "EN_name": "Tahoma",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\tahoma.ttf"
+    },
+    "Tahoma,True,False": {
+        "EN_name": "Tahoma",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\tahomabd.ttf"
+    },
+    "Microsoft Tai Le,False,False": {
+        "EN_name": "Microsoft Tai Le",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\taile.ttf"
+    },
+    "Microsoft Tai Le,True,False": {
+        "EN_name": "Microsoft Tai Le",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\taileb.ttf"
+    },
+    "Tempus Sans ITC,False,False": {
+        "EN_name": "Tempus Sans ITC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\TEMPSITC.TTF"
+    },
+    "Times New Roman,False,False": {
+        "EN_name": "Times New Roman",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\times.ttf"
+    },
+    "Times New Roman,True,False": {
+        "EN_name": "Times New Roman",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\timesbd.ttf"
+    },
+    "Times New Roman,True,True": {
+        "EN_name": "Times New Roman",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\timesbi.ttf"
+    },
+    "Times New Roman,False,True": {
+        "EN_name": "Times New Roman",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\timesi.ttf"
+    },
+    "Traditional Arabic,True,False": {
+        "EN_name": "Traditional Arabic",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\tradbdo.ttf"
+    },
+    "Traditional Arabic,False,False": {
+        "EN_name": "Traditional Arabic",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\trado.ttf"
+    },
+    "Trebuchet MS,False,False": {
+        "EN_name": "Trebuchet MS",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\trebuc.ttf"
+    },
+    "Trebuchet MS,True,False": {
+        "EN_name": "Trebuchet MS",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\trebucbd.ttf"
+    },
+    "Trebuchet MS,True,True": {
+        "EN_name": "Trebuchet MS",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\trebucbi.ttf"
+    },
+    "Trebuchet MS,False,True": {
+        "EN_name": "Trebuchet MS",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\trebucit.ttf"
+    },
+    "Tunga,False,False": {
+        "EN_name": "Tunga",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\tunga.ttf"
+    },
+    "Tunga,True,False": {
+        "EN_name": "Tunga",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\tungab.ttf"
+    },
+    "DilleniaUPC,True,False": {
+        "EN_name": "DilleniaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcdb.ttf"
+    },
+    "DilleniaUPC,True,True": {
+        "EN_name": "DilleniaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcdbi.ttf"
+    },
+    "DilleniaUPC,False,True": {
+        "EN_name": "DilleniaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcdi.ttf"
+    },
+    "DilleniaUPC,False,False": {
+        "EN_name": "DilleniaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcdl.ttf"
+    },
+    "EucrosiaUPC,True,False": {
+        "EN_name": "EucrosiaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upceb.ttf"
+    },
+    "EucrosiaUPC,True,True": {
+        "EN_name": "EucrosiaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcebi.ttf"
+    },
+    "EucrosiaUPC,False,True": {
+        "EN_name": "EucrosiaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcei.ttf"
+    },
+    "EucrosiaUPC,False,False": {
+        "EN_name": "EucrosiaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcel.ttf"
+    },
+    "FreesiaUPC,True,False": {
+        "EN_name": "FreesiaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcfb.ttf"
+    },
+    "FreesiaUPC,True,True": {
+        "EN_name": "FreesiaUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcfbi.ttf"
+    },
+    "FreesiaUPC,False,True": {
+        "EN_name": "FreesiaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcfi.ttf"
+    },
+    "FreesiaUPC,False,False": {
+        "EN_name": "FreesiaUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcfl.ttf"
+    },
+    "IrisUPC,True,False": {
+        "EN_name": "IrisUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcib.ttf"
+    },
+    "IrisUPC,True,True": {
+        "EN_name": "IrisUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcibi.ttf"
+    },
+    "IrisUPC,False,True": {
+        "EN_name": "IrisUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcii.ttf"
+    },
+    "IrisUPC,False,False": {
+        "EN_name": "IrisUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcil.ttf"
+    },
+    "JasmineUPC,True,False": {
+        "EN_name": "JasmineUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcjb.ttf"
+    },
+    "JasmineUPC,True,True": {
+        "EN_name": "JasmineUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcjbi.ttf"
+    },
+    "JasmineUPC,False,True": {
+        "EN_name": "JasmineUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcji.ttf"
+    },
+    "JasmineUPC,False,False": {
+        "EN_name": "JasmineUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcjl.ttf"
+    },
+    "KodchiangUPC,True,False": {
+        "EN_name": "KodchiangUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upckb.ttf"
+    },
+    "KodchiangUPC,True,True": {
+        "EN_name": "KodchiangUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upckbi.ttf"
+    },
+    "KodchiangUPC,False,True": {
+        "EN_name": "KodchiangUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcki.ttf"
+    },
+    "KodchiangUPC,False,False": {
+        "EN_name": "KodchiangUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upckl.ttf"
+    },
+    "LilyUPC,True,False": {
+        "EN_name": "LilyUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upclb.ttf"
+    },
+    "LilyUPC,True,True": {
+        "EN_name": "LilyUPC",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upclbi.ttf"
+    },
+    "LilyUPC,False,True": {
+        "EN_name": "LilyUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\upcli.ttf"
+    },
+    "LilyUPC,False,False": {
+        "EN_name": "LilyUPC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\upcll.ttf"
+    },
+    "Utsaah,False,False": {
+        "EN_name": "Utsaah",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\utsaah.ttf"
+    },
+    "Utsaah,True,False": {
+        "EN_name": "Utsaah",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\utsaahb.ttf"
+    },
+    "Utsaah,True,True": {
+        "EN_name": "Utsaah",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\utsaahbi.ttf"
+    },
+    "Utsaah,False,True": {
+        "EN_name": "Utsaah",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\utsaahi.ttf"
+    },
+    "Vani,False,False": {
+        "EN_name": "Vani",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\Vani.ttf"
+    },
+    "Vani,True,False": {
+        "EN_name": "Vani",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\Vanib.ttf"
+    },
+    "Verdana,False,False": {
+        "EN_name": "Verdana",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\verdana.ttf"
+    },
+    "Verdana,True,False": {
+        "EN_name": "Verdana",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\verdanab.ttf"
+    },
+    "Verdana,False,True": {
+        "EN_name": "Verdana",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\verdanai.ttf"
+    },
+    "Verdana,True,True": {
+        "EN_name": "Verdana",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\verdanaz.ttf"
+    },
+    "Vijaya,False,False": {
+        "EN_name": "Vijaya",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\vijaya.ttf"
+    },
+    "Vijaya,True,False": {
+        "EN_name": "Vijaya",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\vijayab.ttf"
+    },
+    "Viner Hand ITC,False,False": {
+        "EN_name": "Viner Hand ITC",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\VINERITC.TTF"
+    },
+    "Vivaldi,False,True": {
+        "EN_name": "Vivaldi",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": true,
+        "Path": "C:\\Windows\\Fonts\\VIVALDII.TTF"
+    },
+    "Vladimir Script,False,False": {
+        "EN_name": "Vladimir Script",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\VLADIMIR.TTF"
+    },
+    "Vrinda,False,False": {
+        "EN_name": "Vrinda",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\vrinda.ttf"
+    },
+    "Vrinda,True,False": {
+        "EN_name": "Vrinda",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\vrindab.ttf"
+    },
+    "Webdings,False,False": {
+        "EN_name": "Webdings",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\webdings.ttf"
+    },
+    "Wingdings,False,False": {
+        "EN_name": "Wingdings",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\wingding.ttf"
+    },
+    "Wingdings 2,False,False": {
+        "EN_name": "Wingdings 2",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\WINGDNG2.TTF"
+    },
+    "Wingdings 3,False,False": {
+        "EN_name": "Wingdings 3",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\WINGDNG3.TTF"
+    },
+    "Yu Gothic,True,False": {
+        "EN_name": "Yu Gothic",
+        "JP_name": "\u6e38\u30b4\u30b7\u30c3\u30af",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHB.TTC"
+    },
+    "Yu Gothic UI,True,False": {
+        "EN_name": "Yu Gothic UI",
+        "JP_name": null,
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHB.TTC"
+    },
+    "Yu Gothic UI Semibold,False,False": {
+        "EN_name": "Yu Gothic UI Semibold",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHB.TTC"
+    },
+    "Yu Gothic Light,False,False": {
+        "EN_name": "Yu Gothic Light",
+        "JP_name": "\u6e38\u30b4\u30b7\u30c3\u30af Light",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHL.TTC"
+    },
+    "Yu Gothic UI Light,False,False": {
+        "EN_name": "Yu Gothic UI Light",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHL.TTC"
+    },
+    "Yu Gothic Medium,False,False": {
+        "EN_name": "Yu Gothic Medium",
+        "JP_name": "\u6e38\u30b4\u30b7\u30c3\u30af Medium",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHM.TTC"
+    },
+    "Yu Gothic UI,False,False": {
+        "EN_name": "Yu Gothic UI",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHM.TTC"
+    },
+    "Yu Gothic,False,False": {
+        "EN_name": "Yu Gothic",
+        "JP_name": "\u6e38\u30b4\u30b7\u30c3\u30af",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHR.TTC"
+    },
+    "Yu Gothic UI Semilight,False,False": {
+        "EN_name": "Yu Gothic UI Semilight",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUGOTHR.TTC"
+    },
+    "Yu Mincho,False,False": {
+        "EN_name": "Yu Mincho",
+        "JP_name": "\u6e38\u660e\u671d",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUMIN.TTF"
+    },
+    "Yu Mincho Demibold,True,False": {
+        "EN_name": "Yu Mincho Demibold",
+        "JP_name": "\u6e38\u660e\u671d Demibold",
+        "is_Bold": true,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUMINDB.TTF"
+    },
+    "Yu Mincho Light,False,False": {
+        "EN_name": "Yu Mincho Light",
+        "JP_name": "\u6e38\u660e\u671d Light",
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\YUMINL.TTF"
+    },
+    "ZWAdobeF,False,False": {
+        "EN_name": "ZWAdobeF",
+        "JP_name": null,
+        "is_Bold": false,
+        "is_Italic": false,
+        "Path": "C:\\Windows\\Fonts\\ZWAdobeF.TTF"
+    }
+}
