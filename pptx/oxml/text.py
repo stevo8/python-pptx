@@ -297,6 +297,17 @@ class CT_TextCharacterProperties(BaseOxmlElement):
             "a:extLst",
         ),
     )
+    Asian = ZeroOrOne(
+        "a:ea",
+        successors=(
+            "a:cs",
+            "a:sym",
+            "a:hlinkClick",
+            "a:hlinkMouseOver",
+            "a:rtl",
+            "a:extLst",
+        ),
+    )
     hlinkClick = ZeroOrOne(
         "a:hlinkClick", successors=("a:hlinkMouseOver", "a:rtl", "a:extLst")
     )
@@ -421,6 +432,16 @@ class CT_TextParagraph(BaseOxmlElement):
         text_types = {CT_RegularTextRun, CT_TextLineBreak, CT_TextField}
         return tuple(elm for elm in self if type(elm) in text_types)
 
+
+    @property
+    def content_children_break(self):
+        """Sequence containing text-container child elements of this `a:p` element.
+
+        These include `a:r`, `a:br`, and `a:fld`.
+        """
+        text_types = {CT_TextLineBreak}
+        return tuple(elm for elm in self if type(elm) in text_types)
+
     @property
     def text(self):
         """str text contained in this paragraph."""
@@ -520,7 +541,9 @@ class CT_TextParagraphProperties(BaseOxmlElement):
             return None
         spcPts = spcBef.spcPts
         if spcPts is None:
-            return None
+            spcPct = int(spcBef.spcPct.get('val'))
+            #return None
+            return spcPct
         return spcPts.val
 
     @space_before.setter
